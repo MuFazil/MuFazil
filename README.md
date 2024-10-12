@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufazil&label=Profile%20views&color=0e75b6&style=flat" alt="mufazil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufazil" alt="mufazil" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufazil&theme=darkhub" alt="mufazil" /></a> </p>
 - 🔭 I’m currently working on **Deep Learning and DRF**
 
 - 🌱 I’m currently learning **Sveltekit, React**
