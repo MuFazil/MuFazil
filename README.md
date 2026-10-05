@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fazil</h1>
-<h3 align="center">A passionate ML Engineer and Full-Stack Developer from Kochi</h3>
+<h3 align="center">A passionate AI Engineer and Full-Stack Developer from Kochi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufazil&label=Profile%20views&color=0e75b6&style=flat" alt="mufazil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufazil&theme=darkhub&title=-Reviews,-PullRequest" alt="mufazil" /></a> </p>
-- 🔭 I’m currently working on **Deep Learning and DRF**
+- 🔭 I’m currently working on **Agentic AI and Fastapi**
 
-- 🌱 I’m currently learning **Sveltekit, React**
+- 🌱 I’m currently learning **AI Ops, Spec Driven Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuFazil](https://github.com/MuFazil)
 
