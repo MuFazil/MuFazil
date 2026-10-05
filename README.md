@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufazil&label=Profile%20views&color=0e75b6&style=flat" alt="mufazil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufazil&theme=darkhub&title=-Reviews,-PullRequest" alt="mufazil" /></a> </p>
+
 - 🔭 I’m currently working on **Agentic AI and Fastapi**
 
 - 🌱 I’m currently learning **AI Ops, Spec Driven Development**
